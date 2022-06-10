@@ -24,20 +24,20 @@ The shell is **command-line interpreter** that makes it easy for you to issue co
 
 1 -> - or d -> - = file and d = directory
 
-- file owner
-2 -> - or r -> read permission -> - or r -> i - no and r - yes
-3 -> - or w -> write permission -> - or w -> i - no and w - yes
-4 -> - or x -> execute permission -> - or x -> i - no and x - yes
+#### file owner
+2 -> - or r -> read permission -> - or r -> i - no and r - yes  
+3 -> - or w -> write permission -> - or w -> i - no and w - yes  
+4 -> - or x -> execute permission -> - or x -> i - no and x - yes  
 
-- files group
-5 -> - or r -> read permission -> - or r -> i - no and r - yes
-6 -> - or w -> write permission -> - or w -> i - no and w - yes
-7 -> - or x -> execute permission -> - or x -> i - no and x - yes
+#### files group
+5 -> - or r -> read permission -> - or r -> i - no and r - yes  
+6 -> - or w -> write permission -> - or w -> i - no and w - yes  
+7 -> - or x -> execute permission -> - or x -> i - no and x - yes  
 
-- other users
-8 -> - or r -> read permission -> - or r -> i - no and r - yes
-9 -> - or w -> write permission -> - or w -> i - no and w - yes
-0 -> - or x -> execute permission -> - or x -> i - no and x - yes
+#### other users
+8 -> - or r -> read permission -> - or r -> i - no and r - yes  
+9 -> - or w -> write permission -> - or w -> i - no and w - yes  
+0 -> - or x -> execute permission -> - or x -> i - no and x - yes  
 
 ### PATH
 
