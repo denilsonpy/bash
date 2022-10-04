@@ -1,11 +1,12 @@
-# bash-course
+# Bash
 
-BASH = **B**ourne **A**gain **SH**ell
+ **B**ourne-**A**gain **SH**ell
 
 ### What is a Script?
 
-A shell script is a file containing commands for the shell
-A Bash script is simply a file containing commands for the Bash shell
+A shell script is a file containing commands for the shell.
+
+A Bash script is simply a file containing commands for the Bash shell.
 
 ### Why use scirpts?
 
